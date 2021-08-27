@@ -25,6 +25,8 @@ Please turn in your submission by the deadline on your cohort calendar.
 
 Create a new component called **Likes** in the `src` directory and add functionality to it so that when the render component it records the number of clicks in state and displays the total clicks.
 
+Your React app must compile without errors. If you do have errors that you cannot solve, comment them out and explain what you think is going on.
+
 ## Steps to Take
 
 1. Use the `useState` hook to add state called `totalLikes` to the component to store the current number of clicks on the component.
